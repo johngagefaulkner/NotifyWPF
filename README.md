@@ -1,9 +1,12 @@
+![NotifyWPFLogo](Media/Logo/NotifyWPF-Logo-96px.svg)
 # NotifyWPF
 UI Controls for WPF Notifications (as seen in VS Code) - updated for .NET 6!
 
 > **PLEASE NOTE:** This repo is essentially a fork of [Enterwell Client WPF - Notifications](https://github.com/Enterwell/Wpf.Notifications) as I simply created a new project targeting .NET 6 then migrated over the code from that project to this one.
 
 > The following contents of the readme are a direct copy of the original author's.
+
+---
 
 ## Features
 - Flexible styling 
@@ -44,7 +47,7 @@ this.Manager = new NotificationMessageManager();
 
 ### Simple "info" notification
 
-![Info notification message](docs/images/CaptureNotificationMessageInfo.PNG)
+![Info notification message](https://raw.githubusercontent.com/Enterwell/Wpf.Notifications/master/docs/images/CaptureNotificationMessageInfo.PNG)
 
 ```c#
 manager.CreateMessage()
