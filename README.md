@@ -1,4 +1,4 @@
-![NotifyWPFLogo](Media/Logo/NotifyWPF-Logo-96px.svg)
+![NotifyWPFLogo](https://raw.githubusercontent.com/johngagefaulkner/NotifyWPF/main/Media/Logo/NotifyWPF-Logo-96px.svg)
 # NotifyWPF
 UI Controls for WPF Notifications (as seen in VS Code) - updated for .NET 6!
 
